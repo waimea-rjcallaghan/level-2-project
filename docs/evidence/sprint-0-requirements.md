@@ -2,17 +2,17 @@
 
 ## Identified Problem or Need
 
-Replace this text with a clearly stated problem or need that exists that your project will attempt to solve / fulfil.
+need an easy method of keeping track of their physical fitness and health progress.
 
 
 ## End-User Requirements
 
-Replace this text with a description of your typical end-users and their specific needs / expectations / requirements.
+Anyone who wants an easy way to record their progress in physical fitness training.
 
 
 ## Proposed Solution
 
-Replace this text with a brief statement about the system that you intend to create, including the key functionality it should have.
+make a mobile app in which the user can store data and infomation about their workouts, how many reps or sets they have done ect.
 
 
 # Relevant Implications
