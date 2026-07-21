@@ -1,3 +1,53 @@
+# ... Project
+
+## Project Description
+
+This is an app that ...
+
+The app has the following key features:
+- Feature one
+- Feature two
+- Feature three
+- ...
+
+
+## Supporting Documents
+
+Task Instructions:
+- [Instruction documents](docs/instructions/)
+
+Project Evidence
+- [Sprint 0: Project Requirements](docs/evidence/sprint-0-requirements.md)
+- [Sprint 1: Prototype Development](docs/evidence/sprint-1-prototype.md)
+- [Sprint 2: MVP Development](docs/evidence/sprint-2-mvp.md)
+- [Sprint 3: Final System Development](docs/evidence/sprint-3-final.md)
+- [Review: Project Final Review](docs/evidence/system-review.md)
+
+
+## Test Accounts
+
+The following user accounts have been created to demonstrate the features of the system:
+
+Test User 1:
+- Username: xxxxx
+- Password: xxxxx
+
+Test User 2:
+- Username: xxxxx
+- Password: xxxxx
+
+...
+
+
+## Technologies Used
+
+- [Flask](https://flask.palletsprojects.com/) as the web framework
+- [Python](https://www.python.org/) as the programming language used
+- [SQLite](https://sqlite.org/) for the database
+- [Jinja2](https://jinja.palletsprojects.com/templates/) for page templating
+
+
+
 # Flask Project Template
 
 This is a simple [Flask web app](https://flask.palletsprojects.com/) project, built using [Python](https://www.python.org/), that using a [SQLite database](https://sqlite.org/), and [Jinja2 templates](https://jinja.palletsprojects.com/templates/).
@@ -10,7 +60,7 @@ See the [docs folder](docs) for a quick-start and guides to usage. In particular
 - [DB Schema](docs/guides/schema.md)
 - [SQL Queries](docs/guides/sqlite.md)
 
-*For easier reading, the docs are hosted as a [GH Pages site](https://waimea-dt.github.io/flask-project-level-2/)*
+*For easier reading, the docs are hosted as a [GH Pages site](https://waimea-dt.github.io/flask-project-level-2-project/)*
 
 
 ## Project Structure
