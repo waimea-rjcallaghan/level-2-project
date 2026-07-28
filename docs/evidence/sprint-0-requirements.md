@@ -19,70 +19,70 @@ make a mobile app in which the user can store data and infomation about their wo
 
 ## NAME OF IMPLICATION 1
 
-Replace this text with a clear explanation of what the implication means.
+Useability.
 
 ### Relevance to the System
 
-Replace this text with an explanation of why the implication is relevant to this particular project.
+If the app has good useability then anyone can download the app and use it.
 
 ### Impact / Considerations
 
-Replace this text with an explanation of what you will need to consider moving forward and how the project will be impacted by this implication.
+good useability would allow for more users to pick up the app and have an easier time learning how it works which would make them more likely to use it again.
 
 
 
 ## NAME OF IMPLICATION 2
 
-Replace this text with a clear explanation of what the implication means.
+accessability.
 
 ### Relevance to the System
 
-Replace this text with an explanation of why the implication is relevant to this particular project.
+It should be accessable to as many people as posible. It sholud work for uses who are dyslexic, colour-blind and people with impared vision.
 
 ### Impact / Considerations
 
-Replace this text with an explanation of what you will need to consider moving forward and how the project will be impacted by this implication.
+having a more accessable app will allow more people to be able to use the app.
 
 
 
 ## NAME OF IMPLICATION 3
 
-Replace this text with a clear explanation of what the implication means.
+End User.
 
 ### Relevance to the System
 
-Replace this text with an explanation of why the implication is relevant to this particular project.
+The app should be what the end user wants and should be developed with the end user in mind to ensure it is made correctly.
 
 ### Impact / Considerations
 
-Replace this text with an explanation of what you will need to consider moving forward and how the project will be impacted by this implication.
+The developer will get feedback from the user to improve the app and cater it to what the end user had wanted.
 
 
 
 ## NAME OF IMPLICATION 4
 
-Replace this text with a clear explanation of what the implication means.
+functionality.
 
 ### Relevance to the System
 
-Replace this text with an explanation of why the implication is relevant to this particular project.
+The programme needs to have function links and no bugs or glitches.
 
 ### Impact / Considerations
 
-Replace this text with an explanation of what you will need to consider moving forward and how the project will be impacted by this implication.
+the developer will test the programme and make sure it functions as it should without bugs.
 
 
 
 ## NAME OF IMPLICATION 5
 
-Replace this text with a clear explanation of what the implication means.
+Aesthetics.
 
 ### Relevance to the System
 
-Replace this text with an explanation of why the implication is relevant to this particular project.
+The programme should be easy to understand so the user can more easly navigate the programme and reasonably well designed so that it looks good as well.
 
 ### Impact / Considerations
 
-Replace this text with an explanation of what you will need to consider moving forward and how the project will be impacted by this implication.
+the website will be easier to navigate and will be better to look at overall improving the user's experience.
 
 

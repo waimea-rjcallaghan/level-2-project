@@ -32,13 +32,15 @@ Replace this text with notes regarding the DB design.
 
 ### Required Data Input
 
-Replace this text with a description of what data will be input, and where / how it will be obtained.
+The user will input what they have done. What exersize, how many reps, how heavy ect.
 
 ### Required Data Output
 
-Replace this text with a description of the outputs for the system - what types of data will be displayed?
+the programme will let the user know their personal best in terms of reps and/or weight for specific exersizes. It will also record past data so the user can see their progress as they continue to use the programme.
 
 ### Required Data Processing
+
+the programme should be able to calculate averages and record highscores for individual exersizes. When storing data the programme should add the date or some sort of time line in order for the user to be able to track progress.
 
 Replace this text with a description of how the data will be processed to achieve the desired output(s) - any processes / formulae?
 
