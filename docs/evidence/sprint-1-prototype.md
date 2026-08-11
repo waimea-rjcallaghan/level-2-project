@@ -47,7 +47,7 @@ Replace this text with a description of how the data will be processed to achiev
 
 ## UI 'Flow'
 
-The first stage of prototyping was to explore how the UI might 'flow' between states, based on the required functionality.
+The first stage of prototyping was to explore how the UI might 'flow' between states, based on the required functionality
 
 This Figma demo shows the initial design for the UI 'flow':
 
