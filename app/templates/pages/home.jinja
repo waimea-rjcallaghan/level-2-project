@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+
+<html lang="en" data-theme="light">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>Notes Demo {% block title %}{% endblock %}</title>
+
+    <link rel="icon" href="/static/images/note.svg">
+
+    <script src="/static/js/utils.js"></script>
+
+    <link rel="stylesheet" href="/static/css/reset.css">
+    <link rel="stylesheet" href="/static/css/messages.css">
+    <link rel="stylesheet" href="/static/css/styles.css">
+</head>
+
+<body>
+
+    <header>
+    <h1>Exersize App</h1>
+        <a href="/">
+            Notes Demo
+        </a>
+
+        <nav>
+            <a href="/">All Notes</a>
+            <a href="/_data_form.jinja">Add today's data</a>
+            <a href="/">Link</a>
+        </nav>
+    </header>
+
+    {# Show flash messages from any previous events #}
+    {% include "partials/messages.jinja" %}
+
+    <main>
+
+        {% block content %}
+        {% endblock %}
+
+    </main>
+
+</body>
+
+</html>

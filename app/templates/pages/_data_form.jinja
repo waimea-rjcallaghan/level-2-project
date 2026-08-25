@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+
+<html lang="en" data-theme="light">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>Notes Demo {% block title %}{% endblock %}</title>
+
+    <link rel="icon" href="/static/images/note.svg">
+
+    <script src="/static/js/utils.js"></script>
+
+    <link rel="stylesheet" href="/static/css/reset.css">
+    <link rel="stylesheet" href="/static/css/messages.css">
+    <link rel="stylesheet" href="/static/css/styles.css">
+</head>
+
+<body>
+
+    <header>
+        <a href="/">
+            Notes Demo
+        </a>
+
+        <nav>
+            <a href="/">All Notes</a>
+            <a href="/">Link</a>
+            <a href="/">Link</a>
+        </nav>
+    </header>
+
+    {# Show flash messages from any previous events #}
+    {% include "partials/messages.jinja" %}
+
+    <main>
+
+        {% block content %}
+        <h2>New Data</h2>
+
+    <form method="post" action="/data/new">
+        <label>
+            Name
+            <input type="text" name="name" required>
+        </label>
+
+        <label>
+            date
+            <input type="int" name="date" required>
+        </label>
+
+        <label>
+            repweight
+            <input type="int" name="repweight" required>
+        </label>
+
+        <label>
+            repno.
+            <input type="int" name="repno." required>
+        </label>
+
+        <button>Add Data</button>
+    
+    </form>
+
+
+
+
+        {% endblock %}
+
+    </main>
+
+</body>
+
+</html>

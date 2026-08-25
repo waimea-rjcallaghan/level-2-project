@@ -97,3 +97,15 @@ main > h2 {
     }
 }
 
+
+#home {
+    background-color: #fbb2b1;
+
+    header {
+        background-color: #ff0f09;
+    }
+
+    h1 {
+        font-size: 32px;
+    }
+}
